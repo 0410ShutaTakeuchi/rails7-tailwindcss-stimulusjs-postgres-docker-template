@@ -13,7 +13,7 @@
 ```bash
 $ mkdir YOUR_REPOSITORY_NAME
 $ cd YOUR_REPOSITORY_NAME
-$ git clone git@github.com:ShutaTakeuchi0410/rails7-tailwindcss-postgres-docker-template.git .
+$ git clone git@github.com:0410ShutaTakeuchi/rails7-tailwindcss-stimulusjs-postgres-docker-template.git .
 $ rm -rf .git/
 ```
 
